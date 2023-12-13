@@ -1,0 +1,152 @@
+[
+    {
+        "song": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "year": 1975,
+        "album": "A Night at the Opera"
+    },
+    {
+        "song": "Billie Jean",
+        "artist": "Michael Jackson",
+        "year": 1983,
+        "album": "Thriller"
+    },
+    {
+        "song": "Like a Rolling Stone",
+        "artist": "Bob Dylan",
+        "year": 1965,
+        "album": "Highway 61 Revisited"
+    },
+    {
+        "song": "What's Going On",
+        "artist": "Marvin Gaye",
+        "year": 1971,
+        "album": "What's Going On"
+    },
+    {
+        "song": "I Want to Hold Your Hand",
+        "artist": "The Beatles",
+        "year": 1963,
+        "album": "Meet the Beatles!"
+    },
+    {
+        "song": "Hotel California",
+        "artist": "Eagles",
+        "year": 1976,
+        "album": "Hotel California"
+    },
+    {
+        "song": "Thriller",
+        "artist": "Michael Jackson",
+        "year": 1982,
+        "album": "Thriller"
+    },
+    {
+        "song": "Stairway to Heaven",
+        "artist": "Led Zeppelin",
+        "year": 1971,
+        "album": "Led Zeppelin IV"
+    },
+    {
+        "song": "Imagine",
+        "artist": "John Lennon",
+        "year": 1971,
+        "album": "Imagine"
+    },
+    {
+        "song": "Smells Like Teen Spirit",
+        "artist": "Nirvana",
+        "year": 1991,
+        "album": "Nevermind"
+    },
+    {
+        "song": "One",
+        "artist": "U2",
+        "year": 1992,
+        "album": "Achtung Baby"
+    },
+    {
+        "song": "Hey Jude",
+        "artist": "The Beatles",
+        "year": 1968,
+        "album": "The Beatles (White Album)"
+    },
+    {
+        "song": "Purple Haze",
+        "artist": "Jimi Hendrix",
+        "year": 1967,
+        "album": "Are You Experienced"
+    },
+    {
+        "song": "Like a Virgin",
+        "artist": "Madonna",
+        "year": 1984,
+        "album": "Like a Virgin"
+    },
+    {
+        "song": "Hound Dog",
+        "artist": "Elvis Presley",
+        "year": 1956,
+        "album": "Milton Berle Show"
+    },
+    {
+        "song": "I Will Always Love You",
+        "artist": "Whitney Houston",
+        "year": 1992,
+        "album": "The Bodyguard: Original Soundtrack Album"
+    },
+    {
+        "song": "Let It Be",
+        "artist": "The Beatles",
+        "year": 1970,
+        "album": "Let It Be"
+    },
+    {
+        "song": "Superstition",
+        "artist": "Stevie Wonder",
+        "year": 1972,
+        "album": "Talking Book"
+    },
+    {
+        "song": "Imagine",
+        "artist": "John Lennon",
+        "year": 1971,
+        "album": "Imagine"
+    },
+    {
+        "song": "Blinding Lights",
+        "artist": "The Weeknd",
+        "year": 2020,
+        "album": "After Hours"
+    },
+    {
+        "song": "Rolling in the Deep",
+        "artist": "Adele",
+        "year": 2010,
+        "album": "21"
+    },
+    {
+        "song": "Despacito",
+        "artist": "Luis Fonsi ft. Daddy Yankee",
+        "year": 2017,
+        "album": "Vida"
+    },
+    {
+        "song": "Shape of You",
+        "artist": "Ed Sheeran",
+        "year": 2017,
+        "album": "÷ (Divide)"
+    },
+    {
+        "song": "Uptown Funk",
+        "artist": "Mark Ronson ft. Bruno Mars",
+        "year": 2014,
+        "album": "Uptown Special"
+    },
+    {
+        "song": "Someone You Loved",
+        "artist": "Lewis Capaldi",
+        "year": 2019,
+        "album": "Divinely Uninspired to a Hellish Extent"
+    }
+]

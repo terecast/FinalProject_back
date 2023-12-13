@@ -16,8 +16,10 @@ app.use(express.json())
 app.use(express.urlencoded({extended: false}))
 
 
-app.use('/api/music', require('./routes/musicRoutes'))
+app.use('/api/songs', require('./routes/songRoutes'))
 app.use('/api/users', require('./routes/userRoutes'))
+app.use('/api/songlist', require('./routes/songListRoutes'))
+app.use('/api/masterlist', require('./routes/masterListRoutes'))
 app.use(errorHandler)
 
 app.listen(port, ()=> console.log(`Servidor iniciado en el puerto ${port}`))

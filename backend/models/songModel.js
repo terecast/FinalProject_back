@@ -1,29 +1,23 @@
 const mongoose = require('mongoose')
 
-const musicSchema = mongoose.Schema({
-    user: {
-        type: mongoose.Schema.Types.ObjectId,
-        required: true,
-        ref: 'User'
-    },
-    cancion: {
+const songSchema = mongoose.Schema({
+ 
+    song: {
         type: String,
         require: (true, 'Por favor escribe el nombre la cancion')
     },
-    artista: {
+    artist: {
         type: String,
         require: (true, 'Por favor escribe el nombre del artista')
-
     },
-    anio: {
+    album: {
+        type: String,
+        require: (true, 'Por favor escribe el album')
+    },
+    year: {
         type: Number,
         require: (true, 'Por favor escribe el año')
-
     },
-    
-
-},{
-    timestamps: true
 })
 
-module.exports = mongoose.model('List', musicSchema)
+module.exports = mongoose.model('Song', songSchema)
